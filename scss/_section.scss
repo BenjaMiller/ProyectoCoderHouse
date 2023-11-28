@@ -1,0 +1,17 @@
+.marca {
+    text-transform: uppercase;
+    text-align: center;
+    background-color: $colorFondo;
+    font-weight: $PesoPalabraImportante;
+    padding: 1rem;
+    border-bottom: 1px solid $colorBorder;
+  }
+
+  .colorBoton {
+    background-color: $colorFondo;
+  }
+  
+  .colorHover a:hover {
+    background-color: rgb(255, 92, 92);
+  }
+  

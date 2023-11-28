@@ -1,0 +1,26 @@
+header {
+    background-image: url(https://i.pinimg.com/564x/21/7f/ba/217fba21b2cebbc3642e147b2f95ec05.jpg);
+    background-size: cover;
+    background-position: center;
+    border-bottom: 1px solid $colorBorder;
+  }
+
+  .logo {
+    width: 150px;
+    height: auto;
+    border-radius: 100px;
+  }
+  
+  .menuNav a {
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+  
+    &:hover {
+      color: rgb(141, 141, 141);
+    }
+  }
+  
+  .menuForm a {
+    color: black;
+  }
