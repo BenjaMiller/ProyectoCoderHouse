@@ -3,6 +3,7 @@
   padding: 0;
 }
 
+/* Mixin para estilos de fondo comunes */
 body {
   font-family: "Inter", sans-serif;
   font-family: "Playpen Sans", cursive;
@@ -13,10 +14,10 @@ body {
 }
 
 header {
-  background-image: url(https://i.pinimg.com/564x/21/7f/ba/217fba21b2cebbc3642e147b2f95ec05.jpg);
   background-size: cover;
   background-position: center;
   border-bottom: 1px solid white;
+  background-image: url(https://i.pinimg.com/564x/21/7f/ba/217fba21b2cebbc3642e147b2f95ec05.jpg);
 }
 
 .logo {
