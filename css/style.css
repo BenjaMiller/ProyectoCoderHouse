@@ -59,8 +59,13 @@ header {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+.catalogoKoeniseg img {
+  width: 350px;
+  transition: all 0.3s;
+}
 .catalogoKoeniseg img:hover {
   filter: grayscale(75%);
+  width: 550px;
 }
 
 .text.Tecnica {

@@ -1,9 +1,17 @@
 .catalogoKoeniseg {
     margin-top: 1rem;
     margin-bottom: 1rem;
+
+    
+    img {
+      width: 350px;
+      transition: all 0.3s;
+      
+      }    
   
     img:hover {
       filter: grayscale(75%);
+      width:  550px;
     }
   }
 
