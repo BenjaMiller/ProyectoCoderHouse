@@ -38,6 +38,10 @@ header {
   color: black;
 }
 
+.colorHam {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAMAAABC4vDmAAAACVBMVEX////6+vr29vaGdjNtAAAArElEQVR4nO3cMQEAMAyAsHb+Rc9Czh5EAQqYt/fMzkFFqaJUUaooVZQqShWlilJFqaJUUaooVZQqShWlilJFqaJUUaooVZQqShWlilJFqaJUUaooVZQqShWlilJFqaJUUaooVZQqShWlilJFqaJUUaooVZQqShWlilJFqaJUUaooVZQqShWlilJFqaJUUaooVZQqShWlilJFqaJUUaooVZQqShWlilInoy7uWD84PwG9R/7AiwAAAABJRU5ErkJggg==);
+}
+
 .marca {
   text-transform: uppercase;
   text-align: center;
@@ -60,8 +64,8 @@ header {
   margin-bottom: 1rem;
 }
 .catalogoKoeniseg img {
-  width: 350px;
-  transition: all 0.3s;
+  width: 500px;
+  transition: 0.3s;
 }
 .catalogoKoeniseg img:hover {
   filter: grayscale(75%);

@@ -4,14 +4,14 @@
 
     
     img {
-      width: 350px;
-      transition: all 0.3s;
+      width: 500px;
+      transition: 0.3s;
       
       }    
   
     img:hover {
       filter: grayscale(75%);
-      width:  550px;
+      width: 550px;
     }
   }
 
